@@ -9,7 +9,7 @@ def test_numpy():
     assert np.__version__ == '1.19.2'
 
 def test_pandas():
-    assert np.__version__ == '1.0.5'
+    assert pd.__version__ == '1.0.5'
 
 def test_scipy():
-    assert np.__version__ == '1.6.0'
+    assert sci.__version__ == '1.6.0'
