@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/rtx-travis/travis-ci-demo.svg?branch=main)](https://travis-ci.com/rtx-travis/travis-ci-demo)
+
 # Travis CI Demo
 
 ### Fork this repository
